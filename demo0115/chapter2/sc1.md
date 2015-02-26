@@ -12,4 +12,6 @@
 
 4. 聯結完成後點選左上角FILE選單點選[NEW BOOK]進入建立畫面。
 ![](https://dl.dropboxusercontent.com/s/jyoujlkueyatbkh/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-02-09%2010.17.45.png?dl=0)
-5. 接下來選擇書本樣板，有分成圖片上這4類，選擇好之後選擇一個資料夾做為本機端的儲存點![](https://dl.dropboxusercontent.com/s/3tnebznz3mdh531/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-02-09%2010.17.52.png?dl=0)....![](https://dl.dropboxusercontent.com/s/ihq3kk1bjxmgt0p/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-02-09%2010.18.02.png?dl=0)選擇好之後就可以開始寫書了。![](https://dl.dropboxusercontent.com/s/svecny90hopj6he/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-01-12%2017.20.55.png?dl=0)
+5. 接下來選擇書本樣板，有分成圖片上這4類，選擇好之後選擇一個資料夾做為本機端的儲存點![](https://dl.dropboxusercontent.com/s/3tnebznz3mdh531/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-02-09%2010.17.52.png?dl=0)
+
+6. ![](https://dl.dropboxusercontent.com/s/ihq3kk1bjxmgt0p/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-02-09%2010.18.02.png?dl=0)選擇好之後就可以開始寫書了。![](https://dl.dropboxusercontent.com/s/svecny90hopj6he/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202015-01-12%2017.20.55.png?dl=0)
